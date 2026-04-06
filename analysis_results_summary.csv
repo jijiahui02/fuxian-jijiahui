@@ -1,0 +1,5 @@
+Treatment,AP_mean_mgkg,AP_relative_change_pct,CP_mean,CP_relative_change_pct
+Ambient,44.547,0.00,20.226,0.00
+CO2,30.913,-32.13,22.483,11.16
+Temp,33.191,-27.13,21.058,3.11
+CO2+Temp,28.849,-35.66,25.323,30.14
